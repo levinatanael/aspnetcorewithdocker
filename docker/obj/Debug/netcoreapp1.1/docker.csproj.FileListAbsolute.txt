@@ -1,0 +1,10 @@
+/app/bin/Debug/netcoreapp1.1/docker.db
+/app/bin/Debug/netcoreapp1.1/docker.deps.json
+/app/bin/Debug/netcoreapp1.1/docker.runtimeconfig.json
+/app/bin/Debug/netcoreapp1.1/docker.runtimeconfig.dev.json
+/app/bin/Debug/netcoreapp1.1/docker.dll
+/app/bin/Debug/netcoreapp1.1/docker.pdb
+/app/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
+/app/obj/Debug/netcoreapp1.1/docker.AssemblyInfo.cs
+/app/obj/Debug/netcoreapp1.1/docker.dll
+/app/obj/Debug/netcoreapp1.1/docker.pdb
